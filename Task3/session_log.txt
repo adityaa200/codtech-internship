@@ -1,0 +1,43 @@
+[2026-01-30 13:22:17] USER: having heart attack'
+[2026-01-30 13:22:17] BOT:  💔 [CARDIAC ALERT]
+1. Call Emergency Services NOW.
+2. Have patient SIT DOWN and stay calm.
+3. Loosen tight clothing.
+4. If not allergic, chew 300mg Aspirin.
+--------------------------------------------------
+[2026-01-30 13:22:28] USER: burning
+[2026-01-30 13:22:28] BOT:  🔥 [BURN TREATMENT PROTOCOL]
+1. Hold area under COOL running water (10-15 mins).
+2. Remove jewelry/tight items immediately.
+3. Do NOT pop blisters.
+4. Cover loosely with sterile gauze or cling wrap.
+--------------------------------------------------
+[2026-01-30 13:22:33] USER: cut
+[2026-01-30 13:22:33] BOT:  🩸 [HEMORRHAGE CONTROL PROTOCOL]
+1. Apply DIRECT PRESSURE with a clean cloth.
+2. Elevate the injury above heart level.
+3. Do NOT remove soaked cloths; add more layers on top.
+4. If arterial (spurting) blood: Consider a tourniquet.
+--------------------------------------------------
+[2026-01-30 13:22:51] USER: anxiety
+[2026-01-30 13:22:51] BOT:  🧘 [CALM DOWN SEQUENCE ACTIVATED]
+You are safe. Focus on my instructions:
+1. Inhale deeply ... (4 seconds)
+2. Hold breath ... (7 seconds)
+3. Exhale slowly ... (8 seconds)
+Repeat this cycle 3 times.
+--------------------------------------------------
+[2026-01-30 13:23:03] USER: thank you
+[2026-01-30 13:23:03] BOT:  ❌ I did not understand that medical term.
+Please describe the symptom simply (e.g., 'Cut', 'Burn', 'Faint').
+If this is an emergency, call an Ambulance.
+--------------------------------------------------
+[2026-01-30 13:23:07] USER: hi
+[2026-01-30 13:23:07] BOT:  Hello. I am Medi-Plus Pro. I am listening.
+Please state the emergency (e.g., 'Severe Burn', 'Choking', 'Chest Pain').
+--------------------------------------------------
+[2026-01-30 13:23:21] USER: no emergency
+[2026-01-30 13:23:21] BOT:  ❌ I did not understand that medical term.
+Please describe the symptom simply (e.g., 'Cut', 'Burn', 'Faint').
+If this is an emergency, call an Ambulance.
+--------------------------------------------------
